@@ -1,6 +1,10 @@
 # ADS_twitter_sentiment
 ADS Gruppenarbeit für Daniel M. und Kristina M. 
 
+Dockerhub:
+https://hub.docker.com/r/kikimano/gruppe_24/tags
+
+
 Files:
 ADS-twitter-sentiment.ipynb: Jupyter Notebook with our code
 model: saved model from our Jupyter Notebook 
